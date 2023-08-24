@@ -1,22 +1,22 @@
 [
   {
     "name": "ARCHE",
-    "url": "https://www.arche.acdh.oeaw.ac.at",
-    "icon": "https://icons.duckduckgo.com/ip3/www.arche.acdh.oeaw.ac.at.ico",
+    "url": "https://arche.acdh.oeaw.ac.at/browser/",
+    "icon": "https://icons.duckduckgo.com/ip3/arche.acdh.oeaw.ac.at.ico",
     "slug": "arche",
     "status": "down",
-    "uptime": "0.52%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.52%",
-    "uptimeMonth": "0.52%",
-    "uptimeYear": "0.52%",
+    "uptime": "0.81%",
+    "uptimeDay": "0.81%",
+    "uptimeWeek": "0.81%",
+    "uptimeMonth": "0.81%",
+    "uptimeYear": "0.81%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-24": 10
+      "2023-08-24": 21
     }
   },
   {
@@ -39,8 +39,8 @@
   },
   {
     "name": "OEAW Resources",
-    "url": "https://oeaw.ac.at/resources/",
-    "icon": "https://icons.duckduckgo.com/ip3/oeaw.ac.at.ico",
+    "url": "https://www.oeaw.ac.at/resources/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.oeaw.ac.at.ico",
     "slug": "oeaw-resources",
     "status": "up",
     "uptime": "100.00%",
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acdh-dev.oeaw.ac.at.ico",
     "slug": "typesense",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 891,
     "timeDay": 891,
     "timeWeek": 891,
     "timeMonth": 891,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2023-08-24": 10
+      "2023-08-24": 21
     }
   }
 ]
