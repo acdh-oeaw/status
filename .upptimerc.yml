@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://www.oeaw.ac.at/fileadmin/oeaw/institutstemplate/acdh/img/acdh-ch-logo96.png
-  name: Upptime
+  name: ACDH-CH
   introTitle: "ACDH-CH uptime status page"
   introMessage: This is uptime status page of ACDH-CH core services 
   navbar:
