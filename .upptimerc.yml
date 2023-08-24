@@ -10,7 +10,7 @@ sites:
   - name: OEAW Resources
     url: https://www.oeaw.ac.at/resources/
   - name: Typesense
-    url: https://typesense.acdh-dev.oeaw.ac.at/
+    url: https://typesense.acdh-dev.oeaw.ac.at/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
