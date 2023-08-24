@@ -19,8 +19,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "ACDH-CH uptime status"
-  introMessage: This is uptime status page of core ACDH-CH services 
+  introTitle: "ACDH-CH uptime status page"
+  introMessage: This is uptime status page of ACDH-CH core services 
   navbar:
     - title: Status
       href: /
