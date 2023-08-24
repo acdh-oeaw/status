@@ -11,6 +11,18 @@ sites:
     url: https://www.oeaw.ac.at/resources/
   - name: Typesense
     url: https://typesense.acdh-dev.oeaw.ac.at/health
+  - name: Vocabs
+    url: https://vocabs.acdh.oeaw.ac.at/en/
+  - name: Teach DARIAH
+    url: https://teach.dariah.eu/course/index.php
+  - name: SSHOC Marketplace API
+    url: https://marketplace-api.sshopencloud.eu/api/property-types
+  - name: Redmine
+    url: https://redmine.acdh.oeaw.ac.at/
+  - name: Mattermost
+    url: https://mattermost.acdh.oeaw.ac.at/login
+  - name: DHCR
+    url: https://dhcr.clarin-dariah.eu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
