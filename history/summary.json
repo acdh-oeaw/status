@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.arche.acdh.oeaw.ac.at.ico",
     "slug": "arche",
     "status": "down",
-    "uptime": "12.98%",
-    "uptimeDay": "12.98%",
-    "uptimeWeek": "12.98%",
-    "uptimeMonth": "12.98%",
-    "uptimeYear": "12.98%",
+    "uptime": "0.90%",
+    "uptimeDay": "0.90%",
+    "uptimeWeek": "0.90%",
+    "uptimeMonth": "0.90%",
+    "uptimeYear": "0.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-24": 0
+      "2023-08-24": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2382,
-    "timeDay": 2382,
-    "timeWeek": 2382,
-    "timeMonth": 2382,
-    "timeYear": 2382,
+    "time": 2091,
+    "timeDay": 2091,
+    "timeWeek": 2091,
+    "timeMonth": 2091,
+    "timeYear": 2091,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2519,
-    "timeDay": 2519,
-    "timeWeek": 2519,
-    "timeMonth": 2519,
-    "timeYear": 2519,
+    "time": 2337,
+    "timeDay": 2337,
+    "timeWeek": 2337,
+    "timeMonth": 2337,
+    "timeYear": 2337,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acdh-dev.oeaw.ac.at.ico",
     "slug": "typesense",
     "status": "down",
-    "uptime": "12.38%",
-    "uptimeDay": "12.38%",
-    "uptimeWeek": "12.38%",
-    "uptimeMonth": "12.38%",
-    "uptimeYear": "12.38%",
-    "time": 1015,
-    "timeDay": 1015,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
+    "time": 1012,
+    "timeDay": 1012,
+    "timeWeek": 1012,
+    "timeMonth": 1012,
+    "timeYear": 1012,
     "dailyMinutesDown": {
-      "2023-08-24": 0
+      "2023-08-24": 6
     }
   }
 ]
