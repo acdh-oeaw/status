@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/arche.acdh.oeaw.ac.at.ico",
     "slug": "arche",
     "status": "up",
-    "uptime": "90.38%",
+    "uptime": "90.45%",
     "uptimeDay": "89.97%",
-    "uptimeWeek": "90.38%",
-    "uptimeMonth": "90.38%",
-    "uptimeYear": "90.38%",
+    "uptimeWeek": "90.45%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "90.45%",
     "time": 1283,
     "timeDay": 1696,
     "timeWeek": 1283,
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/baserow.acdh-dev.oeaw.ac.at.ico",
     "slug": "baserow",
     "status": "down",
-    "uptime": "89.34%",
-    "uptimeDay": "87.30%",
-    "uptimeWeek": "89.34%",
-    "uptimeMonth": "89.34%",
-    "uptimeYear": "89.34%",
+    "uptime": "88.73%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "88.73%",
+    "uptimeMonth": "88.73%",
+    "uptimeYear": "88.73%",
     "time": 1923,
     "timeDay": 1533,
     "timeWeek": 1923,
     "timeMonth": 1923,
     "timeYear": 1923,
     "dailyMinutesDown": {
-      "2023-08-25": 183
+      "2023-08-25": 195
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.oeaw.ac.at.ico",
     "slug": "oeaw-resources",
     "status": "down",
-    "uptime": "89.43%",
-    "uptimeDay": "87.41%",
-    "uptimeWeek": "89.43%",
-    "uptimeMonth": "89.43%",
-    "uptimeYear": "89.43%",
+    "uptime": "88.82%",
+    "uptimeDay": "86.59%",
+    "uptimeWeek": "88.82%",
+    "uptimeMonth": "88.82%",
+    "uptimeYear": "88.82%",
     "time": 1502,
     "timeDay": 1089,
     "timeWeek": 1502,
     "timeMonth": 1502,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2023-08-25": 181
+      "2023-08-25": 193
     }
   },
   {
@@ -66,11 +66,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/typesense.acdh-dev.oeaw.ac.at.ico",
     "slug": "typesense",
     "status": "up",
-    "uptime": "87.83%",
+    "uptime": "87.91%",
     "uptimeDay": "87.47%",
-    "uptimeWeek": "87.83%",
-    "uptimeMonth": "87.83%",
-    "uptimeYear": "87.83%",
+    "uptimeWeek": "87.91%",
+    "uptimeMonth": "87.91%",
+    "uptimeYear": "87.91%",
     "time": 887,
     "timeDay": 663,
     "timeWeek": 887,
@@ -86,19 +86,19 @@
     "url": "https://vocabs.acdh.oeaw.ac.at/en/",
     "icon": "https://icons.duckduckgo.com/ip3/vocabs.acdh.oeaw.ac.at.ico",
     "slug": "vocabs",
-    "status": "down",
-    "uptime": "88.51%",
-    "uptimeDay": "87.48%",
-    "uptimeWeek": "88.51%",
-    "uptimeMonth": "88.51%",
-    "uptimeYear": "88.51%",
-    "time": 1280,
-    "timeDay": 1398,
-    "timeWeek": 1280,
-    "timeMonth": 1280,
-    "timeYear": 1280,
+    "status": "up",
+    "uptime": "87.87%",
+    "uptimeDay": "86.69%",
+    "uptimeWeek": "87.87%",
+    "uptimeMonth": "87.87%",
+    "uptimeYear": "87.87%",
+    "time": 1152,
+    "timeDay": 1147,
+    "timeWeek": 1152,
+    "timeMonth": 1152,
+    "timeYear": 1152,
     "dailyMinutesDown": {
-      "2023-08-25": 180
+      "2023-08-25": 192
     }
   },
   {
@@ -107,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/teach.dariah.eu.ico",
     "slug": "teach-dariah",
     "status": "down",
-    "uptime": "88.54%",
-    "uptimeDay": "87.52%",
-    "uptimeWeek": "88.54%",
-    "uptimeMonth": "88.54%",
-    "uptimeYear": "88.54%",
+    "uptime": "87.88%",
+    "uptimeDay": "86.70%",
+    "uptimeWeek": "87.88%",
+    "uptimeMonth": "87.88%",
+    "uptimeYear": "87.88%",
     "time": 2400,
     "timeDay": 2364,
     "timeWeek": 2400,
     "timeMonth": 2400,
     "timeYear": 2400,
     "dailyMinutesDown": {
-      "2023-08-25": 180
+      "2023-08-25": 191
     }
   },
   {
@@ -126,19 +126,19 @@
     "url": "https://marketplace-api.sshopencloud.eu/api/property-types",
     "icon": "https://icons.duckduckgo.com/ip3/marketplace-api.sshopencloud.eu.ico",
     "slug": "sshoc-marketplace-api",
-    "status": "down",
-    "uptime": "88.58%",
-    "uptimeDay": "87.56%",
-    "uptimeWeek": "88.58%",
-    "uptimeMonth": "88.58%",
-    "uptimeYear": "88.58%",
-    "time": 940,
-    "timeDay": 889,
-    "timeWeek": 940,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "status": "up",
+    "uptime": "87.93%",
+    "uptimeDay": "86.75%",
+    "uptimeWeek": "87.93%",
+    "uptimeMonth": "87.93%",
+    "uptimeYear": "87.93%",
+    "time": 864,
+    "timeDay": 801,
+    "timeWeek": 864,
+    "timeMonth": 864,
+    "timeYear": 864,
     "dailyMinutesDown": {
-      "2023-08-25": 179
+      "2023-08-25": 191
     }
   },
   {
@@ -147,18 +147,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/redmine.acdh.oeaw.ac.at.ico",
     "slug": "redmine",
     "status": "down",
-    "uptime": "88.61%",
-    "uptimeDay": "87.59%",
-    "uptimeWeek": "88.61%",
-    "uptimeMonth": "88.61%",
-    "uptimeYear": "88.61%",
+    "uptime": "87.95%",
+    "uptimeDay": "86.78%",
+    "uptimeWeek": "87.95%",
+    "uptimeMonth": "87.95%",
+    "uptimeYear": "87.95%",
     "time": 1072,
     "timeDay": 961,
     "timeWeek": 1072,
     "timeMonth": 1072,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2023-08-25": 179
+      "2023-08-25": 190
     }
   },
   {
@@ -167,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.acdh.oeaw.ac.at.ico",
     "slug": "mattermost",
     "status": "down",
-    "uptime": "88.65%",
-    "uptimeDay": "87.63%",
-    "uptimeWeek": "88.65%",
-    "uptimeMonth": "88.65%",
-    "uptimeYear": "88.65%",
+    "uptime": "87.99%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "87.99%",
+    "uptimeMonth": "87.99%",
+    "uptimeYear": "87.99%",
     "time": 764,
     "timeDay": 615,
     "timeWeek": 764,
     "timeMonth": 764,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2023-08-25": 178
+      "2023-08-25": 190
     }
   },
   {
@@ -187,18 +187,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dhcr.clarin-dariah.eu.ico",
     "slug": "dhcr",
     "status": "down",
-    "uptime": "88.68%",
-    "uptimeDay": "87.67%",
-    "uptimeWeek": "88.68%",
-    "uptimeMonth": "88.68%",
-    "uptimeYear": "88.68%",
+    "uptime": "88.02%",
+    "uptimeDay": "86.85%",
+    "uptimeWeek": "88.02%",
+    "uptimeMonth": "88.02%",
+    "uptimeYear": "88.02%",
     "time": 4252,
     "timeDay": 3833,
     "timeWeek": 4252,
     "timeMonth": 4252,
     "timeYear": 4252,
     "dailyMinutesDown": {
-      "2023-08-25": 178
+      "2023-08-25": 189
     }
   }
 ]
