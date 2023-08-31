@@ -23,6 +23,8 @@ sites:
     url: https://mattermost.acdh.oeaw.ac.at/login
   - name: DHCR
     url: https://dhcr.clarin-dariah.eu
+  - name: ACDH-CH shared assets
+    url: https://shared.acdh.oeaw.ac.at/test.html
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
