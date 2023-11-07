@@ -13,6 +13,8 @@ sites:
     url: https://dhcr.clarin-dariah.eu
   - name: Mattermost
     url: https://mattermost.acdh.oeaw.ac.at/login
+  - name: PMB    
+    url: https://pmb.acdh.oeaw.ac.at/
   - name: Rancher
     url: https://rancher.acdh-dev.oeaw.ac.at/
   - name: OEAW Resources
