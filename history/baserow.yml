@@ -1,7 +1,7 @@
 url: https://baserow.acdh-dev.oeaw.ac.at/
-status: up
-code: 200
-responseTime: 1985
-lastUpdated: 2024-04-25T23:18:28.643Z
+status: down
+code: 503
+responseTime: 1397
+lastUpdated: 2024-04-26T13:15:05.259Z
 startTime: 2023-08-24T09:37:24.965Z
 generator: Upptime <https://github.com/upptime/upptime>
