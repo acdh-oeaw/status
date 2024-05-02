@@ -1,7 +1,7 @@
 url: https://dhcr.clarin-dariah.eu
-status: down
-code: 503
-responseTime: 719
-lastUpdated: 2024-05-02T13:56:02.935Z
+status: up
+code: 200
+responseTime: 18151
+lastUpdated: 2024-05-02T14:10:31.861Z
 startTime: 2023-08-24T12:04:50.931Z
 generator: Upptime <https://github.com/upptime/upptime>
