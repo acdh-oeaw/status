@@ -1,7 +1,7 @@
 url: https://shared.acdh.oeaw.ac.at/test.html
-status: down
-code: 504
-responseTime: 21033
-lastUpdated: 2024-08-27T14:32:41.980Z
+status: up
+code: 200
+responseTime: 1073
+lastUpdated: 2024-08-27T14:48:42.253Z
 startTime: 2023-08-31T13:07:28.779Z
 generator: Upptime <https://github.com/upptime/upptime>
