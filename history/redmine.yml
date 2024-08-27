@@ -1,7 +1,7 @@
 url: https://redmine.acdh.oeaw.ac.at/
-status: up
-code: 200
-responseTime: 635
-lastUpdated: 2024-08-26T23:20:28.550Z
+status: down
+code: 503
+responseTime: 884
+lastUpdated: 2024-08-27T14:33:59.432Z
 startTime: 2023-08-24T12:04:47.783Z
 generator: Upptime <https://github.com/upptime/upptime>
