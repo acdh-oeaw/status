@@ -258,18 +258,19 @@
     "url": "https://pmb.acdh.oeaw.ac.at/",
     "icon": "https://icons.duckduckgo.com/ip3/pmb.acdh.oeaw.ac.at.ico",
     "slug": "pmb",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.05%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "98.45%",
-    "time": 1991,
-    "timeDay": 1759,
-    "timeWeek": 3144,
-    "timeMonth": 2075,
-    "timeYear": 1991,
+    "uptimeYear": "98.46%",
+    "time": 1989,
+    "timeDay": 1290,
+    "timeWeek": 3055,
+    "timeMonth": 2064,
+    "timeYear": 1989,
     "dailyMinutesDown": {
+      "2024-10-07": 1,
       "2024-10-03": 34,
       "2024-10-02": 45,
       "2024-10-01": 16,
@@ -316,8 +317,7 @@
       "2023-11-07": 1031,
       "2023-11-06": 468,
       "2023-11-05": 203,
-      "2023-10-27": 115,
-      "2023-10-26": 7
+      "2023-10-27": 115
     }
   },
   {
@@ -366,7 +366,7 @@
     "uptimeYear": "99.40%",
     "time": 1517,
     "timeDay": 1621,
-    "timeWeek": 1715,
+    "timeWeek": 1755,
     "timeMonth": 3426,
     "timeYear": 1558,
     "dailyMinutesDown": {
@@ -514,7 +514,7 @@
     "uptimeYear": "98.68%",
     "time": 1975,
     "timeDay": 2100,
-    "timeWeek": 2115,
+    "timeWeek": 2272,
     "timeMonth": 2339,
     "timeYear": 1984,
     "dailyMinutesDown": {
