@@ -665,7 +665,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-12": 433
+      "2024-11-12": 434
     }
   },
   {
@@ -674,11 +674,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/noske-amc.acdh.oeaw.ac.at.ico",
     "slug": "austria-media-corpus-amc",
     "status": "down",
-    "uptime": "3.70%",
-    "uptimeDay": "3.70%",
-    "uptimeWeek": "3.70%",
-    "uptimeMonth": "3.70%",
-    "uptimeYear": "3.70%",
+    "uptime": "1.30%",
+    "uptimeDay": "1.30%",
+    "uptimeWeek": "1.30%",
+    "uptimeMonth": "1.30%",
+    "uptimeYear": "1.30%",
     "time": 860,
     "timeDay": 860,
     "timeWeek": 860,
