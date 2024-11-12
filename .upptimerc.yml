@@ -35,6 +35,8 @@ sites:
     url: https://vocabs.acdh.oeaw.ac.at/en/
   - name: Imprint
     url: https://imprint.acdh.oeaw.ac.at
+  - name: Viewer
+    url: https://viewer.acdh.oeaw.ac.at
 
 
 status-website:
