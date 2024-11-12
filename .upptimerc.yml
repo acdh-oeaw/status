@@ -37,6 +37,8 @@ sites:
     url: https://imprint.acdh.oeaw.ac.at
   - name: Viewer
     url: https://viewer.acdh.oeaw.ac.at
+  - name: Austria Media Corpus (AMC)
+    url: https://noske-amc.acdh.oeaw.ac.at/
 
 
 status-website:
