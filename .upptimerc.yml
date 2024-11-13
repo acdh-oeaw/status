@@ -11,6 +11,8 @@ sites:
     url: https://baserow.acdh-dev.oeaw.ac.at/
   - name: DHCR
     url: https://dhcr.clarin-dariah.eu
+  - name: IIIF server
+    url: https://iiif.acdh.oeaw.ac.at/iiif/images/wpn/0293.jp2/full/max/0/default.jpg
   - name: Mattermost
     url: https://mattermost.acdh.oeaw.ac.at/login
   - name: PMB    
