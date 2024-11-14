@@ -337,10 +337,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/rancher.acdh-dev.oeaw.ac.at.ico",
     "slug": "rancher",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.52%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.45%",
     "time": 800,
     "timeDay": 659,
@@ -348,7 +348,7 @@
     "timeMonth": 763,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2024-11-14": 2,
+      "2024-11-14": 26,
       "2024-08-30": 15,
       "2024-08-28": 15,
       "2024-08-13": 808,
@@ -670,18 +670,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/viewer.acdh.oeaw.ac.at.ico",
     "slug": "viewer",
     "status": "down",
-    "uptime": "0.08%",
+    "uptime": "0.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 48,
+      "2024-11-14": 72,
       "2024-11-13": 1440,
       "2024-11-12": 499
     }
@@ -703,7 +703,7 @@
     "timeMonth": 798,
     "timeYear": 798,
     "dailyMinutesDown": {
-      "2024-11-14": 48,
+      "2024-11-14": 72,
       "2024-11-13": 1440,
       "2024-11-12": 66
     }
