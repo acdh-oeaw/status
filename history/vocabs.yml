@@ -1,7 +1,7 @@
 url: https://vocabs.acdh.oeaw.ac.at/en/
-status: up
-code: 200
-responseTime: 812
-lastUpdated: 2024-12-15T05:34:21.598Z
+status: down
+code: 504
+responseTime: 15748
+lastUpdated: 2024-12-15T06:32:02.931Z
 startTime: 2023-08-24T12:04:41.669Z
 generator: Upptime <https://github.com/upptime/upptime>
