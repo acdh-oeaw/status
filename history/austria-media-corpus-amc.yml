@@ -1,7 +1,7 @@
 url: https://noske-amc.acdh.oeaw.ac.at/
-status: up
-code: 200
-responseTime: 868
-lastUpdated: 2024-12-14T23:21:16.606Z
+status: down
+code: 504
+responseTime: 15759
+lastUpdated: 2024-12-15T06:32:55.384Z
 startTime: 2024-11-12T22:53:40.696Z
 generator: Upptime <https://github.com/upptime/upptime>
