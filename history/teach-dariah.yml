@@ -1,7 +1,7 @@
 url: https://teach.dariah.eu/course/index.php
-status: up
-code: 200
-responseTime: 1839
-lastUpdated: 2025-01-15T23:19:55.084Z
+status: down
+code: 503
+responseTime: 1664
+lastUpdated: 2025-01-16T21:33:25.893Z
 startTime: 2023-08-24T12:04:43.365Z
 generator: Upptime <https://github.com/upptime/upptime>
