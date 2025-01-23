@@ -1,7 +1,7 @@
 url: https://iiif.acdh.oeaw.ac.at/iiif/images/wpn/0293.jp2/full/max/0/default.jpg
-status: down
-code: 503
-responseTime: 780
-lastUpdated: 2025-01-23T15:11:17.294Z
+status: up
+code: 200
+responseTime: 3042
+lastUpdated: 2025-01-23T15:28:58.833Z
 startTime: 2024-11-13T12:20:11.008Z
 generator: Upptime <https://github.com/upptime/upptime>
