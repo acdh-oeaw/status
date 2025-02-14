@@ -1,7 +1,7 @@
 url: https://triplestore.acdh-dev.oeaw.ac.at/bgherkules/
-status: down
-code: 503
-responseTime: 1012
-lastUpdated: 2025-02-14T23:37:04.966Z
+status: up
+code: 401
+responseTime: 637
+lastUpdated: 2025-02-14T23:43:17.638Z
 startTime: 2023-08-31T13:28:12.014Z
 generator: Upptime <https://github.com/upptime/upptime>
