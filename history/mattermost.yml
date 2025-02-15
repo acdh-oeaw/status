@@ -1,7 +1,7 @@
 url: https://mattermost.acdh.oeaw.ac.at/login
-status: down
-code: 504
-responseTime: 16058
-lastUpdated: 2025-02-15T03:00:30.159Z
+status: up
+code: 200
+responseTime: 944
+lastUpdated: 2025-02-15T03:24:33.910Z
 startTime: 2023-08-24T12:04:49.482Z
 generator: Upptime <https://github.com/upptime/upptime>
