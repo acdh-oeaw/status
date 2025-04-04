@@ -1,7 +1,7 @@
 url: https://pmb.acdh.oeaw.ac.at/
-status: up
-code: 200
-responseTime: 952
-lastUpdated: 2025-04-03T23:23:40.027Z
+status: down
+code: 502
+responseTime: 1193
+lastUpdated: 2025-04-04T10:40:28.042Z
 startTime: 2023-10-19T11:57:23.583Z
 generator: Upptime <https://github.com/upptime/upptime>
