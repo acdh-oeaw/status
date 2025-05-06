@@ -1,7 +1,7 @@
 url: https://typesense.acdh-dev.oeaw.ac.at/health
-status: up
-code: 200
-responseTime: 873
-lastUpdated: 2025-05-06T13:22:42.403Z
+status: down
+code: 502
+responseTime: 1339
+lastUpdated: 2025-05-06T15:20:50.141Z
 startTime: 2023-08-24T09:37:30.880Z
 generator: Upptime <https://github.com/upptime/upptime>
