@@ -26,7 +26,7 @@ sites:
   - name: SSHOC Marketplace API
     url: https://marketplace-api.sshopencloud.eu/api/property-types
   - name: Teach DARIAH
-    url: https://teach.dariah.eu/course/index.php
+    url: https://teach.dariah.eu
   - name: Triplestore
     url: https://triplestore.acdh-dev.oeaw.ac.at/bgherkules/
     expectedStatusCodes:
