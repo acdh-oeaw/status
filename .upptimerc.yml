@@ -21,6 +21,10 @@ sites:
     url: https://rancher.acdh-dev.oeaw.ac.at/
   - name: OEAW Resources
     url: https://www.oeaw.ac.at/resources/
+  - name: Recogito
+    url: https://recogito.acdh.oeaw.ac.at/
+        expectedStatusCodes:
+      - 302
   - name: Redmine
     url: https://redmine.acdh.oeaw.ac.at/
   - name: SSHOC Marketplace API
