@@ -23,7 +23,7 @@ sites:
     url: https://www.oeaw.ac.at/resources/
   - name: Recogito
     url: https://recogito.acdh.oeaw.ac.at/
-        expectedStatusCodes:
+    expectedStatusCodes:
       - 302
   - name: Redmine
     url: https://redmine.acdh.oeaw.ac.at/
