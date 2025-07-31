@@ -23,8 +23,6 @@ sites:
     url: https://www.oeaw.ac.at/resources/
   - name: Recogito
     url: https://recogito.acdh.oeaw.ac.at/de/sign-in
-    expectedStatusCodes:
-      - 302
   - name: Redmine
     url: https://redmine.acdh.oeaw.ac.at/
   - name: SSHOC Marketplace API
