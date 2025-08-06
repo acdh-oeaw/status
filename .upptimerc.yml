@@ -51,9 +51,9 @@ status-website:
   # cname: status.acdh-dev.oeaw.ac.at # will forward, so does not do what we want
   baseUrl: /status
   logoUrl: https://www.oeaw.ac.at/fileadmin/oeaw/institutstemplate/acdh/img/acdh-ch-logo96.png
-  name: ACDH-CH
-  introTitle: "ACDH-CH uptime status page"
-  introMessage: This is uptime status page of ACDH-CH core services 
+  name: ACDH
+  introTitle: "ACDH uptime status page"
+  introMessage: This is uptime status page of ACDH core services 
   navbar:
     - title: Status
       href: /
