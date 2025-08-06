@@ -3,7 +3,7 @@ owner: acdh-oeaw # Your GitHub organization or username, where this repository l
 repo: status # The name of this repository
 
 sites:
-  - name: ACDH-CH shared assets
+  - name: ACDH shared assets
     url: https://shared.acdh.oeaw.ac.at/test.html
   - name: ARCHE
     url: https://arche.acdh.oeaw.ac.at/browser/
