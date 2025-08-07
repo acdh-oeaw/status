@@ -193,8 +193,7 @@
       "2024-08-14": 24,
       "2024-08-13": 1015,
       "2024-08-12": 1440,
-      "2024-08-11": 334,
-      "2024-08-07": 34
+      "2024-08-11": 334
     }
   },
   {
@@ -203,18 +202,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/iiif.acdh.oeaw.ac.at.ico",
     "slug": "iiif-server",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "46.21%",
-    "uptimeWeek": "87.78%",
-    "uptimeMonth": "96.58%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.35%",
+    "uptimeDay": "55.51%",
+    "uptimeWeek": "87.91%",
+    "uptimeMonth": "96.61%",
+    "uptimeYear": "99.35%",
     "time": 1719,
     "timeDay": 3815,
     "timeWeek": 2454,
     "timeMonth": 1857,
     "timeYear": 1719,
     "dailyMinutesDown": {
-      "2025-08-06": 758,
+      "2025-08-06": 744,
       "2025-08-05": 459,
       "2025-08-04": 16,
       "2025-07-29": 91,
@@ -621,8 +620,7 @@
       "2024-08-14": 1047,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 334,
-      "2024-08-07": 34
+      "2024-08-11": 334
     }
   },
   {
@@ -808,7 +806,7 @@
     "slug": "viewer",
     "status": "up",
     "uptime": "93.61%",
-    "uptimeDay": "78.98%",
+    "uptimeDay": "80.28%",
     "uptimeWeek": "95.52%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "93.61%",
