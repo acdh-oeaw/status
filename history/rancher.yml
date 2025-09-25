@@ -1,7 +1,7 @@
 url: https://rancher.acdh-dev.oeaw.ac.at/
-status: down
-code: 503
-responseTime: 623
-lastUpdated: 2025-09-25T06:49:31.678Z
+status: up
+code: 200
+responseTime: 715
+lastUpdated: 2025-09-25T07:17:36.374Z
 startTime: 2023-09-04T11:56:30.810Z
 generator: Upptime <https://github.com/upptime/upptime>
