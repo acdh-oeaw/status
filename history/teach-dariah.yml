@@ -1,7 +1,7 @@
 url: https://teach.dariah.eu
-status: up
-code: 200
-responseTime: 23468
-lastUpdated: 2025-09-30T07:00:28.547Z
+status: down
+code: 503
+responseTime: 1691
+lastUpdated: 2025-09-30T09:20:22.644Z
 startTime: 2023-08-24T12:04:43.365Z
 generator: Upptime <https://github.com/upptime/upptime>
