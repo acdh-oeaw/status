@@ -1,7 +1,7 @@
 url: https://viewer.acdh.oeaw.ac.at
-status: up
-code: 200
-responseTime: 1212
-lastUpdated: 2026-01-15T23:08:16.963Z
+status: down
+code: 503
+responseTime: 957
+lastUpdated: 2026-01-16T12:06:05.882Z
 startTime: 2024-11-12T15:39:47.880Z
 generator: Upptime <https://github.com/upptime/upptime>
