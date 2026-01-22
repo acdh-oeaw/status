@@ -1,7 +1,7 @@
 url: https://imprint.acdh.oeaw.ac.at
-status: up
-code: 200
-responseTime: 931
-lastUpdated: 2026-01-22T15:00:31.567Z
+status: down
+code: 503
+responseTime: 767
+lastUpdated: 2026-01-22T16:41:55.881Z
 startTime: 2024-03-22T14:17:26.820Z
 generator: Upptime <https://github.com/upptime/upptime>
