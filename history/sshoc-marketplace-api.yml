@@ -1,7 +1,7 @@
 url: https://marketplace-api.sshopencloud.eu/api/property-types
-status: up
-code: 200
-responseTime: 785
-lastUpdated: 2026-03-03T07:09:49.208Z
+status: down
+code: 503
+responseTime: 806
+lastUpdated: 2026-03-03T13:35:57.703Z
 startTime: 2023-08-24T12:04:46.291Z
 generator: Upptime <https://github.com/upptime/upptime>
