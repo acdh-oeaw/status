@@ -1,7 +1,7 @@
 url: https://recogito.acdh.oeaw.ac.at/de/sign-in
-status: down
-code: 503
-responseTime: 938
-lastUpdated: 2026-03-11T06:50:28.808Z
+status: up
+code: 200
+responseTime: 923
+lastUpdated: 2026-03-11T07:32:41.299Z
 startTime: 2025-07-31T15:03:56.902Z
 generator: Upptime <https://github.com/upptime/upptime>
