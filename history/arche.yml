@@ -1,7 +1,7 @@
 url: https://arche.acdh.oeaw.ac.at/browser/
-status: up
-code: 200
-responseTime: 1063
-lastUpdated: 2026-03-23T07:08:20.752Z
+status: down
+code: 503
+responseTime: 843
+lastUpdated: 2026-03-23T16:05:03.611Z
 startTime: 2023-08-24T09:37:19.959Z
 generator: Upptime <https://github.com/upptime/upptime>
