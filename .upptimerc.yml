@@ -63,5 +63,10 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
+
 workflowPermissions:
   contents: read
+
+workflowSecrets:
+  GH_PAT: ${{ secrets.GH_PAT }}
+
