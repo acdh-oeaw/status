@@ -64,9 +64,8 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 
+checkoutToken: GH_PAT
+
 workflowPermissions:
   contents: read
-
-workflowSecrets:
-  GH_PAT: ${{ secrets.GH_PAT }}
 
