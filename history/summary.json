@@ -383,19 +383,19 @@
     "url": "https://www.oeaw.ac.at/resources/",
     "icon": "https://icons.duckduckgo.com/ip3/www.oeaw.ac.at.ico",
     "slug": "oeaw-resources",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "7.44%",
+    "uptimeDay": "8.66%",
     "uptimeWeek": "41.80%",
     "uptimeMonth": "63.39%",
     "uptimeYear": "96.50%",
-    "time": 2455,
-    "timeDay": 278,
-    "timeWeek": 322,
-    "timeMonth": 457,
-    "timeYear": 2599,
+    "time": 2453,
+    "timeDay": 201,
+    "timeWeek": 317,
+    "timeMonth": 452,
+    "timeYear": 2596,
     "dailyMinutesDown": {
-      "2026-05-10": 1034,
+      "2026-05-10": 1035,
       "2026-05-09": 1299,
       "2026-05-08": 1270,
       "2026-05-07": 1269,
@@ -455,8 +455,7 @@
       "2025-12-15": 32,
       "2025-12-14": 19,
       "2025-12-13": 35,
-      "2025-12-11": 23,
-      "2025-12-10": 16
+      "2025-12-11": 23
     }
   },
   {
