@@ -19,8 +19,8 @@ sites:
     url: https://pmb.acdh.oeaw.ac.at/
   - name: Rancher
     url: https://rancher.acdh-dev.oeaw.ac.at/
-  - name: OEAW Resources
-    url: https://www.oeaw.ac.at/resources/
+#  - name: OEAW Resources
+#    url: https://www.oeaw.ac.at/resources/
   - name: Recogito
     url: https://recogito.acdh.oeaw.ac.at/de/sign-in
   - name: Redmine
