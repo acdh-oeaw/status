@@ -584,17 +584,17 @@
     "url": "https://triplestore.acdh-dev.oeaw.ac.at/bgherkules/",
     "icon": "https://icons.duckduckgo.com/ip3/triplestore.acdh-dev.oeaw.ac.at.ico",
     "slug": "triplestore",
-    "status": "down",
+    "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "96.63%",
-    "time": 1185,
-    "timeDay": 637,
-    "timeWeek": 756,
-    "timeMonth": 909,
-    "timeYear": 1270,
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "96.62%",
+    "time": 1159,
+    "timeDay": 669,
+    "timeWeek": 754,
+    "timeMonth": 904,
+    "timeYear": 1269,
     "dailyMinutesDown": {
       "2025-06-13": 30,
       "2025-06-17": 36,
@@ -624,7 +624,7 @@
       "2026-03-12": 1166,
       "2026-04-07": 56,
       "2026-04-30": 179,
-      "2026-05-29": 1
+      "2026-05-29": 81
     }
   },
   {
