@@ -30,17 +30,17 @@
     "url": "https://arche.acdh.oeaw.ac.at/browser/",
     "icon": "https://icons.duckduckgo.com/ip3/arche.acdh.oeaw.ac.at.ico",
     "slug": "arche",
-    "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "98.89%",
-    "time": 1594,
-    "timeDay": 1093,
-    "timeWeek": 1714,
-    "timeMonth": 2416,
-    "timeYear": 1556,
+    "status": "up",
+    "uptime": "98.79%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "98.88%",
+    "time": 1697,
+    "timeDay": 30537,
+    "timeWeek": 8998,
+    "timeMonth": 4061,
+    "timeYear": 1696,
     "dailyMinutesDown": {
       "2025-06-05": 68,
       "2025-06-06": 19,
@@ -75,7 +75,7 @@
       "2026-03-22": 240,
       "2026-04-30": 210,
       "2026-05-04": 38,
-      "2026-06-04": 1
+      "2026-06-04": 54
     }
   },
   {
