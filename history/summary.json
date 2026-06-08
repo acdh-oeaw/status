@@ -81,16 +81,16 @@
     "url": "https://baserow.acdh-dev.oeaw.ac.at/",
     "icon": "https://icons.duckduckgo.com/ip3/baserow.acdh-dev.oeaw.ac.at.ico",
     "slug": "baserow",
-    "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
-    "uptimeYear": "99.56%",
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.54%",
     "time": 2951,
-    "timeDay": 3061,
-    "timeWeek": 2739,
-    "timeMonth": 2961,
+    "timeDay": 3010,
+    "timeWeek": 2754,
+    "timeMonth": 2960,
     "timeYear": 2916,
     "dailyMinutesDown": {
       "2025-06-13": 20,
@@ -128,7 +128,7 @@
       "2026-04-30": 129,
       "2026-06-02": 87,
       "2026-06-03": 40,
-      "2026-06-08": 1
+      "2026-06-08": 83
     }
   },
   {
@@ -300,16 +300,16 @@
     "url": "https://pmb.acdh.oeaw.ac.at/",
     "icon": "https://icons.duckduckgo.com/ip3/pmb.acdh.oeaw.ac.at.ico",
     "slug": "pmb",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.55%",
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.54%",
     "time": 1444,
-    "timeDay": 911,
-    "timeWeek": 1851,
-    "timeMonth": 1350,
+    "timeDay": 907,
+    "timeWeek": 1778,
+    "timeMonth": 1340,
     "timeYear": 1215,
     "dailyMinutesDown": {
       "2025-06-13": 30,
@@ -345,7 +345,7 @@
       "2026-05-13": 65,
       "2026-06-02": 74,
       "2026-06-03": 36,
-      "2026-06-08": 1
+      "2026-06-08": 83
     }
   },
   {
