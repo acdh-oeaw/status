@@ -32,10 +32,10 @@
     "slug": "arche",
     "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.50%",
     "time": 1914,
     "timeDay": 1116,
     "timeWeek": 1313,
@@ -62,7 +62,7 @@
       "2026-06-06": 61,
       "2026-06-12": 71,
       "2026-07-15": 97,
-      "2026-08-17": 3
+      "2026-08-17": 46
     }
   },
   {
@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/baserow.acdh-dev.oeaw.ac.at.ico",
     "slug": "baserow",
     "status": "down",
-    "uptime": "99.35%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.34%",
+    "uptimeDay": "96.83%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.59%",
     "time": 2852,
     "timeDay": 1672,
     "timeWeek": 2054,
@@ -106,7 +106,7 @@
       "2026-06-03": 40,
       "2026-06-08": 83,
       "2026-07-16": 142,
-      "2026-08-17": 3
+      "2026-08-17": 46
     }
   },
   {
@@ -208,17 +208,17 @@
     "url": "https://mattermost.acdh.oeaw.ac.at/login",
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.acdh.oeaw.ac.at.ico",
     "slug": "mattermost",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
-    "time": 1213,
-    "timeDay": 1435,
-    "timeWeek": 971,
-    "timeMonth": 947,
-    "timeYear": 964,
+    "time": 1211,
+    "timeDay": 1030,
+    "timeWeek": 928,
+    "timeMonth": 937,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2025-08-25": 42,
       "2025-09-18": 119,
@@ -240,7 +240,8 @@
       "2026-03-12": 103,
       "2026-04-30": 127,
       "2026-05-21": 65,
-      "2026-06-03": 37
+      "2026-06-03": 37,
+      "2026-08-17": 1
     }
   },
   {
@@ -460,10 +461,10 @@
     "slug": "teach-dariah",
     "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.29%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.28%",
     "time": 3011,
     "timeDay": 2353,
     "timeWeek": 2398,
@@ -503,7 +504,7 @@
       "2026-05-12": 41,
       "2026-06-03": 33,
       "2026-07-16": 139,
-      "2026-08-17": 3
+      "2026-08-17": 46
     }
   },
   {
