@@ -248,17 +248,17 @@
     "url": "https://pmb.acdh.oeaw.ac.at/",
     "icon": "https://icons.duckduckgo.com/ip3/pmb.acdh.oeaw.ac.at.ico",
     "slug": "pmb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "77.40%",
+    "uptimeDay": "77.36%",
     "uptimeWeek": "96.77%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.51%",
-    "time": 1901,
-    "timeDay": 25551,
-    "timeWeek": 18920,
-    "timeMonth": 9260,
-    "timeYear": 2078,
+    "time": 1952,
+    "timeDay": 25842,
+    "timeWeek": 19424,
+    "timeMonth": 9693,
+    "timeYear": 2141,
     "dailyMinutesDown": {
       "2025-08-25": 74,
       "2025-09-09": 30,
@@ -290,7 +290,7 @@
       "2026-06-08": 83,
       "2026-08-12": 55,
       "2026-08-19": 166,
-      "2026-08-20": 159
+      "2026-08-20": 160
     }
   },
   {
