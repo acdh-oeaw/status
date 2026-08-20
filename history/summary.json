@@ -207,17 +207,17 @@
     "url": "https://mattermost.acdh.oeaw.ac.at/login",
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.acdh.oeaw.ac.at.ico",
     "slug": "mattermost",
-    "status": "down",
+    "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "98.67%",
     "time": 1211,
-    "timeDay": 1028,
-    "timeWeek": 898,
-    "timeMonth": 926,
-    "timeYear": 962,
+    "timeDay": 921,
+    "timeWeek": 881,
+    "timeMonth": 920,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-08-25": 42,
       "2025-09-18": 119,
@@ -241,7 +241,7 @@
       "2026-05-21": 65,
       "2026-06-03": 37,
       "2026-08-17": 29,
-      "2026-08-20": 2
+      "2026-08-20": 34
     }
   },
   {
@@ -249,17 +249,17 @@
     "url": "https://pmb.acdh.oeaw.ac.at/",
     "icon": "https://icons.duckduckgo.com/ip3/pmb.acdh.oeaw.ac.at.ico",
     "slug": "pmb",
-    "status": "down",
+    "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "70.68%",
-    "uptimeWeek": "95.81%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "68.50%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "99.49%",
     "time": 2003,
-    "timeDay": 24788,
-    "timeWeek": 19136,
-    "timeMonth": 9934,
-    "timeYear": 2201,
+    "timeDay": 23594,
+    "timeWeek": 18435,
+    "timeMonth": 9760,
+    "timeYear": 2198,
     "dailyMinutesDown": {
       "2025-08-25": 74,
       "2025-09-09": 30,
@@ -291,7 +291,7 @@
       "2026-06-08": 83,
       "2026-08-12": 55,
       "2026-08-19": 166,
-      "2026-08-20": 255
+      "2026-08-20": 287
     }
   },
   {
