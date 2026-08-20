@@ -13,7 +13,7 @@
     "time": 1216,
     "timeDay": 1584,
     "timeWeek": 1193,
-    "timeMonth": 1197,
+    "timeMonth": 1194,
     "timeYear": 1218,
     "dailyMinutesDown": {
       "2025-12-04": 196,
@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/arche.acdh.oeaw.ac.at.ico",
     "slug": "arche",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.76%",
@@ -79,7 +79,7 @@
     "time": 2848,
     "timeDay": 2404,
     "timeWeek": 1903,
-    "timeMonth": 2054,
+    "timeMonth": 2056,
     "timeYear": 2677,
     "dailyMinutesDown": {
       "2025-08-25": 74,
@@ -123,7 +123,7 @@
     "time": 5022,
     "timeDay": 957,
     "timeWeek": 777,
-    "timeMonth": 1174,
+    "timeMonth": 1183,
     "timeYear": 5266,
     "dailyMinutesDown": {
       "2025-08-21": 23,
@@ -182,7 +182,7 @@
     "time": 1805,
     "timeDay": 2100,
     "timeWeek": 1934,
-    "timeMonth": 1711,
+    "timeMonth": 1716,
     "timeYear": 1722,
     "dailyMinutesDown": {
       "2025-08-21": 48,
@@ -216,7 +216,7 @@
     "time": 1212,
     "timeDay": 1446,
     "timeWeek": 930,
-    "timeMonth": 943,
+    "timeMonth": 936,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2025-08-25": 42,
@@ -725,7 +725,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/noske-amc.acdh.oeaw.ac.at.ico",
     "slug": "austria-media-corpus-amc",
     "status": "up",
-    "uptime": "97.36%",
+    "uptime": "97.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
