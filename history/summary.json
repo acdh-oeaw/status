@@ -248,17 +248,17 @@
     "url": "https://pmb.acdh.oeaw.ac.at/",
     "icon": "https://icons.duckduckgo.com/ip3/pmb.acdh.oeaw.ac.at.ico",
     "slug": "pmb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "88.28%",
-    "uptimeWeek": "98.33%",
+    "uptimeDay": "88.24%",
+    "uptimeWeek": "98.32%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.54%",
-    "time": 1764,
-    "timeDay": 26985,
-    "timeWeek": 18402,
-    "timeMonth": 8170,
-    "timeYear": 1906,
+    "time": 1814,
+    "timeDay": 27253,
+    "timeWeek": 19037,
+    "timeMonth": 8665,
+    "timeYear": 1970,
     "dailyMinutesDown": {
       "2025-08-25": 74,
       "2025-09-09": 30,
@@ -290,7 +290,7 @@
       "2026-06-08": 83,
       "2026-08-12": 55,
       "2026-08-19": 166,
-      "2026-08-20": 2
+      "2026-08-20": 3
     }
   },
   {
@@ -515,7 +515,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/triplestore.acdh-dev.oeaw.ac.at.ico",
     "slug": "triplestore",
     "status": "up",
-    "uptime": "98.71%",
+    "uptime": "98.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
