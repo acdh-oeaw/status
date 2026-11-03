@@ -14,7 +14,7 @@
     "timeDay": 1759,
     "timeWeek": 1163,
     "timeMonth": 1106,
-    "timeYear": 1208,
+    "timeYear": 1209,
     "dailyMinutesDown": {
       "2025-12-04": 196,
       "2025-12-25": 323,
@@ -40,7 +40,7 @@
     "timeDay": 1317,
     "timeWeek": 1274,
     "timeMonth": 1482,
-    "timeYear": 2067,
+    "timeYear": 2069,
     "dailyMinutesDown": {
       "2025-12-04": 196,
       "2025-12-05": 33,
@@ -77,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 2725,
+    "time": 2575,
     "timeDay": 2979,
     "timeWeek": 2810,
     "timeMonth": 2076,
-    "timeYear": 2514,
+    "timeYear": 2515,
     "dailyMinutesDown": {
       "2025-12-04": 196,
       "2025-12-05": 16,
@@ -170,7 +170,7 @@
     "timeDay": 3480,
     "timeWeek": 2631,
     "timeMonth": 2279,
-    "timeYear": 1838,
+    "timeYear": 1839,
     "dailyMinutesDown": {
       "2025-11-27": 42,
       "2025-12-04": 196,
@@ -233,7 +233,7 @@
     "timeDay": 1858,
     "timeWeek": 1270,
     "timeMonth": 1317,
-    "timeYear": 2285,
+    "timeYear": 2287,
     "dailyMinutesDown": {
       "2025-11-19": 20,
       "2025-11-20": 133,
@@ -278,7 +278,7 @@
     "timeDay": 825,
     "timeWeek": 711,
     "timeMonth": 751,
-    "timeYear": 768,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2025-11-17": 573,
       "2025-11-16": 1440,
@@ -296,16 +296,16 @@
     "url": "https://recogito.acdh.oeaw.ac.at/de/sign-in",
     "icon": "https://icons.duckduckgo.com/ip3/recogito.acdh.oeaw.ac.at.ico",
     "slug": "recogito",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.72%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "79.19%",
+    "uptimeWeek": "97.03%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.67%",
     "time": 1062,
-    "timeDay": 1149,
-    "timeWeek": 1028,
-    "timeMonth": 1036,
+    "timeDay": 1017,
+    "timeWeek": 998,
+    "timeMonth": 1027,
     "timeYear": 1064,
     "dailyMinutesDown": {
       "2025-12-04": 196,
@@ -322,7 +322,7 @@
       "2026-04-30": 181,
       "2026-06-24": 67,
       "2026-08-20": 42,
-      "2026-11-03": 1
+      "2026-11-03": 300
     }
   },
   {
@@ -428,7 +428,7 @@
     "timeDay": 8655,
     "timeWeek": 4368,
     "timeMonth": 3602,
-    "timeYear": 3273,
+    "timeYear": 3275,
     "dailyMinutesDown": {
       "2025-11-13": 16,
       "2025-11-20": 27,
@@ -478,7 +478,7 @@
     "timeDay": 845,
     "timeWeek": 668,
     "timeMonth": 723,
-    "timeYear": 996,
+    "timeYear": 997,
     "dailyMinutesDown": {
       "2025-11-23": 21,
       "2025-12-04": 196,
@@ -518,7 +518,7 @@
     "timeDay": 813,
     "timeWeek": 682,
     "timeMonth": 707,
-    "timeYear": 841,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2025-12-04": 196,
       "2025-12-25": 309,
@@ -547,7 +547,7 @@
     "timeDay": 1178,
     "timeWeek": 953,
     "timeMonth": 2724,
-    "timeYear": 1298,
+    "timeYear": 1299,
     "dailyMinutesDown": {
       "2025-12-04": 196,
       "2025-12-25": 322,
